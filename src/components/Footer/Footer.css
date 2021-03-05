@@ -1,0 +1,25 @@
+.footer{
+    height: 300px;
+    background: #000;
+    text-align: center;
+    
+}
+.footerHeading{
+    font-size: 1.3rem;
+    color:#fff;
+    padding-top:50px;
+}
+
+.faFooter{
+    font-size: 2rem;
+    color:#fff;
+    margin-top:30px;
+    margin-left:40px;
+    margin-right: 40px;
+}
+
+.lastFooter{
+    margin-top: 75px;
+    color:#fff;
+    
+}

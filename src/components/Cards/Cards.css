@@ -1,0 +1,23 @@
+.middleContainer{
+  padding-left:200px;
+  padding-right:200px;
+  background: #fff;
+}
+
+.middle {
+  position: relative;
+  background-color: #fff;
+  font-size: 2rem;
+  font-family: "Niconne", cursive;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.cardHeading{
+  font-weight: bold; 
+  margin-top:50px;
+  font-size:2rem;
+  color:#763857;
+  letter-spacing: 1px;
+  margin-bottom: 40px;
+  line-height: 1.5;
+}

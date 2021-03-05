@@ -1,0 +1,43 @@
+.cardCol2{
+    /* background: #2B1E16; */
+    background: linear-gradient(90deg, #c5d7bd , #9fb8ad 100%);
+    height: 200px;
+    text-align: right;
+    color: #314e52;
+    margin-top:5px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    /* border: solid 2px; */
+}
+
+.cardNumber2{
+    font-size: 5rem;
+    font-weight: bold;
+    position: absolute;
+    top:40px;
+    right:0;
+    margin-right: 50px;
+}
+
+.cardText2{
+    position: absolute;
+    top: 40px;
+    right:0;
+    margin-right: 150px;
+    font-size: 2rem;
+}
+.cardDesc2{
+    position: absolute;
+    top: 100px;
+    right:0;
+    margin-right: 150px;
+    font-size: 1.5rem;  
+}
+.cardFab2{
+    position: absolute;
+    left: 0;
+    top: 60px;
+    margin-left: 80px;
+    font-size: 5rem;
+    color: #00917c;
+}
